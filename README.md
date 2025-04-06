@@ -11,9 +11,6 @@ I'm a passionate developer who loves building useful and creative software proje
 
 ---
 ### 💻 Languages & Tools
----
-### 💻 Languages & Tools
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" style="margin-right: 10px;"/>
